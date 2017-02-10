@@ -45,6 +45,7 @@ and then load the library:
 
 Each recipe contains a short use case with accompanying code. The directory structure is typically as follows:
 
+```
 |-- Recipe name
 |    |-- recipe files
 |    |-- data
@@ -53,6 +54,6 @@ Each recipe contains a short use case with accompanying code. The directory stru
 |    |    └── input data
 |    |-- sandbox
 |    |    └── where the output is written
-
+```
 
 
