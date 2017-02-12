@@ -1,8 +1,9 @@
-# Recipes for the Unicode cookbook
+# Recipes for the Unicode Cookbook
 
 This directory contains recipes (use cases) that supplement the [Unicode Cookbook for Linguists](https://github.com/unicode-cookbook/cookbook). Each recipe is in its own subdirectory:
 
 - ASJP: tokenize ASJP wordlists with the R programming language
+- Basics: basics of text tokenization and grapheme segmentation in the Python programming language
 - Dogon: tokenize the Dogon comparative wordlist and create an orthography profile in Python with Pandas
 - Dutch: create an orthography profile for tokenizing Dutch orthography with R
 - JIPA: tokenize text in IPA with Python or R
