@@ -1,5 +1,11 @@
 # Recipes for the Unicode Cookbook
 
+Steven Moran &lt;bambooforest@gmail.com&gt; & Michael Cysouw &lt;cysouw@mac.com&gt;
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Overview
+
 This directory contains recipes (use cases) that supplement the [Unicode Cookbook for Linguists](https://github.com/unicode-cookbook/cookbook). Each recipe is in its own subdirectory:
 
 - ASJP: tokenize ASJP wordlists with the R programming language
