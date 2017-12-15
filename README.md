@@ -25,10 +25,10 @@ To install the [Python `segments` package](https://pypi.python.org/pypi/segments
 
 on the command line. This will give you access to both the CLI and programmatic functionality in Python scripts, when you import the `segments` library.
 
-You can also install the `segments` package with from the [Github repository](https://github.com/bambooforest/segments):
+You can also install the `segments` package with from the [Github repository](https://github.com/cldf/segments):
 
 ```
- git clone https://github.com/bambooforest/segments.git
+ git clone https://github.com/cldf/segments.git
  cd segments
  python setup.py develop
 ```
