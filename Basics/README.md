@@ -1,4 +1,4 @@
-# Basics
+# Basics of grapheme segmentation and text tokenization in Python and R
 
 Steven Moran &lt;bambooforest@gmail.com&gt; & Michael Cysouw &lt;cysouw@mac.com&gt;
 
