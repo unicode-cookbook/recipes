@@ -6,13 +6,13 @@ Steven Moran &lt;bambooforest@gmail.com&gt; & Michael Cysouw &lt;cysouw@mac.com&
 
 ## Overview
 
-This directory contains recipes (use cases) that supplement the [Unicode Cookbook for Linguists](https://github.com/unicode-cookbook/cookbook). Each recipe is in its own subdirectory:
+This directory contains recipes (use cases) that supplement the [Unicode Cookbook for Linguists](https://github.com/unicode-cookbook/cookbook/blob/master/unicode-cookbook.pdf). Each recipe is in its own subdirectory:
 
-- ASJP: tokenize ASJP wordlists with the R programming language
-- Basics: basics of text tokenization and grapheme segmentation in the Python programming language
-- Dogon: tokenize the Dogon comparative wordlist and create an orthography profile in Python with Pandas
+- Basics: basics of grapheme segmentation and text tokenization in the [Python programming language](https://www.python.org/)
+- ASJP: tokenize ASJP wordlists with the [R programming language](https://www.r-project.org/)
+- Dogon: tokenize the [Dogon comparative wordlist](http://dogonlanguages.org/values) and create an orthography profile in Python with [Pandas](https://pandas.pydata.org/)
 - Dutch: create an orthography profile for tokenizing Dutch orthography with R
-- JIPA: tokenize text in IPA with Python or R
+- JIPA: tokenize text in [International Phonetic Alphabet (IPA)](https://www.internationalphoneticassociation.org/content/ipa-chart) with Python or R
 
 
 ## Installing Python `segments` package
