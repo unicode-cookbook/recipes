@@ -6,5 +6,5 @@ Steven Moran &lt;bambooforest@gmail.com&gt; & Michael Cysouw &lt;cysouw@mac.com&
 
 ## Overview
 
-This recipe illustrates some of the basic uses of orthography profiles using the Python and R packages. Click on the Python [python.ipynb](https://github.com/unicode-cookbook/recipes/blob/master/Basics/python.ipynb) and R [R.ipynb](https://github.com/unicode-cookbook/recipes/blob/master/Basics/R.ipynb) Jupyter notebooks in this directory.
+This recipe illustrates some of the basic uses of orthography profiles using the Python and R packages. Click on the [python.ipynb](https://github.com/unicode-cookbook/recipes/blob/master/Basics/python.ipynb) and [R.ipynb](https://github.com/unicode-cookbook/recipes/blob/master/Basics/R.ipynb) Jupyter notebooks in GitHub to see the basics in action. Altneratively clone the [recipes](https://github.com/unicode-cookbook/recipes) repository and run or edit them locally with [Jupyter](http://jupyter.org/).
 
