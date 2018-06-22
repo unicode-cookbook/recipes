@@ -6,7 +6,7 @@ Steven Moran &lt;bambooforest@gmail.com&gt; & Michael Cysouw &lt;cysouw@mac.com&
 
 ## Overview
 
-This directory contains recipes (use cases) that supplement the [Unicode Cookbook for Linguists](https://github.com/unicode-cookbook/cookbook/blob/master/unicode-cookbook.pdf). Each recipe is in its own subdirectory:
+This directory contains recipes (use cases) that supplement [The Unicode Cookbook for Linguists](https://github.com/unicode-cookbook/cookbook/blob/master/unicode-cookbook.pdf). Each recipe is in its own subdirectory:
 
 - [Basics](https://github.com/unicode-cookbook/recipes/tree/master/Basics): basics of grapheme segmentation and text tokenization in the [Python](https://www.python.org/) and [R](https://www.r-project.org/) programming languages
 - [ASJP](https://github.com/unicode-cookbook/recipes/tree/master/ASJP): tokenize ASJP wordlists with the R
@@ -17,7 +17,7 @@ This directory contains recipes (use cases) that supplement the [Unicode Cookboo
 
 ## Installing Python `segments` package
 
-To install the [Python `segments` package](https://pypi.python.org/pypi/segments) from the Python Package Index (PyPI) run:
+To install the Python [segments package](https://pypi.python.org/pypi/segments) from the Python Package Index (PyPI) run:
 
 ```
  pip install segments
@@ -33,9 +33,9 @@ You can also install the `segments` package with from the [Github repository](ht
  python setup.py develop
 ```
 
-## Installing R `qlcTokenize` library
+## Installing R `qlcData` library
 
-To install the qlcTokenize library and accompanying data, install `qlcData`:
+To install the qlcData library and accompanying data, install `qlcData`:
 
 ```
  install.packages("devtools")
@@ -46,6 +46,18 @@ and then load the library:
 
 ```
  library(qlcData)
+```
+
+To access help, call:
+
+```
+help(qlcData)
+```
+
+To access the [vignette](https://cran.r-project.org/web/packages/qlcData/vignettes/orthography_processing.html), call:
+
+```
+vignette("orthography_processing")
 ```
 
 ## Recipes
