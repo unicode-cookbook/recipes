@@ -1,6 +1,6 @@
 # Recipes for the Unicode Cookbook
 
-Steven Moran & Michael Cysouw
+[Steven Moran](http://www.comparativelinguistics.uzh.ch/de/moran.html) & [Michael Cysouw](http://cysouw.de/home/index.html)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
