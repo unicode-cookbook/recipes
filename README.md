@@ -1,6 +1,6 @@
 # Recipes for the Unicode Cookbook
 
-Steven Moran &lt;bambooforest@gmail.com&gt; & Michael Cysouw &lt;cysouw@mac.com&gt;
+Steven Moran & Michael Cysouw
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
